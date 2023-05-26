@@ -245,3 +245,13 @@ gap: 15px;
     background-color: #7C9B6D;
     color: #FFFFFF;
 }
+
+.action-btn {
+  background-color: #68825C;
+  color: white;
+  border-radius: 5px;
+  border-style: none;
+  margin: 10px;
+  padding: 10px;
+
+}
